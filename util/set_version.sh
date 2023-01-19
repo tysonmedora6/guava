@@ -3,7 +3,8 @@
 set -eu
 
 if (( $# != 1 )); then
-  echo "Usage: set_versions.sh <version>" >&2
+  echo "Usage: set_versions.sh <insersion or say sorry to me..>" >&2
+  echo "otherwise you  know the dialog `Bank walo Tumhari aisi ki taisi` 3 broters on gear"
   exit 1
 fi
 
